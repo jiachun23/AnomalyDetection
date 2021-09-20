@@ -1,3 +1,3 @@
-# AnomalyDetection
+# Anomaly Detection
 
-Anomaly Detection using Isolation Forest with Python
+Anomaly Detection Example using Isolation Forest with Python with a sample student cgpa dataset
